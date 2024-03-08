@@ -1,0 +1,23 @@
+Easter egg :
+- Konami code
+- easter egg sur les sons des pages
+
+
+
+
+
+
+(!!) Réponse (!!)
+- Konami code :
+Depuis la page d'acceuil il faut taper sur le clavier les touches suivantes :
+haut > haut > bas > bas > gauche > droite > gauche > droite > A > B > A > B
+Puis petite surprise qui apparait.
+
+
+- Son :
+C'est une référence à l'un des easter eggs du jeu "Outer wilds" 
+qui consiste à écouter tous les sons que jouent les personnages en même 
+temps pour donner une musique. Il faut donc ouvrir les différentes pages
+du vrai ou faux et relancer le navigateur pour que toutes les pages 
+charges en même temps.
+
